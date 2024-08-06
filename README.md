@@ -1,5 +1,6 @@
-# Project Backend RocketSeat
+# Project Backend RocketSeat - Movies
 ## Description
+An application was built to save favorite movies associated with tags. The user can create and update their login information. Movie notes can be created, displayed, and deleted. Tags are automatically associated when creating notes and are deleted in cascade.
 This project is built using NodeJS and the Express framework. It includes tools for development and testing, such as NodeMon and Insomnia, and a SQLite database managed with Knex migrations and BeeKeeper. 
 Password encryption is handled using BcryptJS.
 
